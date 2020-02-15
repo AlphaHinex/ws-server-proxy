@@ -1,0 +1,21 @@
+{
+  "name": "ws-server-proxy",
+  "version": "1.0.0",
+  "description": "Web Service Server Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.x"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "md5": "2.2.1",
+    "soap": "0.16.0",
+    "xml2js": "0.4.17"
+  }
+}
